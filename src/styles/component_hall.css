@@ -1,0 +1,17 @@
+h2 {
+  font-size: 18px;
+}
+
+.title_wrapper {
+  background-color: #BEBEBE;
+}
+
+.content_wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer_wrapper {
+  background-color: #E0E0E0;
+}

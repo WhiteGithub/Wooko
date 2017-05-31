@@ -1,0 +1,51 @@
+{
+  "validation": {
+    "existence": "required",
+    "email_format": "The email format is invalid",
+    "min_length": "The minimum length is {{min}}",
+    "max_length": "The maximum length is {{max}}",
+    "number": "Please enter a numeral",
+    "integer": "Please enter an integer",
+    "min_value": "The minimum value is {{min}}",
+    "max_value": "The maximum value is {{max}}",
+    "password_confirmation_match": "password confirmation does not match"
+  },
+
+  "placeholder": {
+    "email": "Email",
+    "password": "Password",
+    "password_confirmation": "Password Confirmation",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "select_degree": "Select Degree",
+    "select_uni": "Select University",
+    "select_program": "Select Program",
+    "school_email": "School Email",
+    "tutor_description": "Describe Yourself",
+    "feedback_description": "Feedback",
+    "comment": "Comment",
+    "price": "Budget",
+    "location": "Location",
+    "course_code": "Course Code"
+  },
+
+  "prompt": {
+    "invalid_input": "Invalid input",
+    "payment_methods": "At this moment, we do not support online payment, to avoid the fees charged by third-party payment methods. Please figure out the payment method with your tutor / student, e.g. cash, e-Transfer and Paypal."
+  },
+
+  "SIGNUP1": {
+    "input_errors": "There are input errors.",
+    "uni_required": "University is required."
+  },
+
+  "SERVER": {
+    "token_expired": "Logging in token expired. Please log in again.",
+    "unexpected_error": "Expected error occurred: {{error}}"
+  },
+
+  "BUTTON": {
+    "ok": "OK",
+    "cancel": "Cancel"
+  }
+}

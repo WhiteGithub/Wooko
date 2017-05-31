@@ -1,0 +1,5 @@
+.uni_pro_dropdown_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}

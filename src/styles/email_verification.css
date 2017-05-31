@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+}
+
+.panel {
+  width: 392px;
+  height: 363px;
+  margin-top: 105px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.logo_wrapper {
+  width: 108px;
+  height: 108px;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  width: 83px;
+  height: 83px;
+}
+
+.title {
+  font-size: 21px;
+  margin-top: 29px;
+}
+
+.message {
+  font-size: 14px;
+  margin-top: 17px;
+  text-align: center;
+}

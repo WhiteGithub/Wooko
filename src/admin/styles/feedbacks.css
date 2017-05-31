@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  align-self: stretch;
+}
+
+.component_wraper {
+  margin-left: 'auto';
+  margin-right: 'auto';
+  width: 850
+},
+
+.header {
+  background-color: '#979797'
+}
